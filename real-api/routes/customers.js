@@ -21,8 +21,6 @@ const customers = [
         }
     ]
 
-
-/* GET users listing. */
 router.get('/', function(req, res, next) {
   res.json(customers);
 });
