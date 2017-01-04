@@ -1,0 +1,25 @@
+{
+
+    "customers" : [
+        {
+            "id" : 1,
+            "firstName" : "Jared Mock",
+            "lastName" : "Blitzstein",
+            "address1" : "935 First Ave",
+            "city" : "King Of Prussia",
+            "zipcode" : "19406",
+            "hasTooManyZs" : false,
+            "_meta" : "valid" 
+        },
+        {
+            "id" : 2,
+            "firstName" : "Justin Mock",
+            "lastName" : "Szczurowski",
+            "address1" : "935 First Ave",
+            "city" : "King Of Prussia",
+            "zipcode" : "19406",
+            "hasTooManyZs" : true,
+            "_meta" : "aLotOfZ"
+        }
+    ]
+}
